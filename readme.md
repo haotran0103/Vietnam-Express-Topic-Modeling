@@ -20,8 +20,8 @@ Cả hai dịch vụ đều được triển khai dưới dạng API sử dụng
 1. **Clone repository**
 
     ```bash
-    git clone https://github.com/yourusername/topic-modeling-api.git
-    cd topic-modeling-api
+    git clone https://github.com/yourusername/topic-modeling-api.git](https://github.com/haotran0103/Vietnam-Express-Topic-Modeling
+    cd topic-modeling
     ```
 
 2. **Tạo và kích hoạt virtual environment**
